@@ -19,11 +19,11 @@ global.APIKeys = {
 //Owner React
 global.AUTO_REACT = 'true'
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94754342061' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
+global.owner = ['94754342061',''] //මෙතන number එක.
+global.premium = ['94754342061','9476342733'] //මෙතන number එක.
 global.botname = 'VIHANGA BOT INC' //මෙතන නම.
 global.ownername = 'Vihanga MD' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
