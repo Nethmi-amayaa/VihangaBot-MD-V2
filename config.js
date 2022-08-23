@@ -23,7 +23,7 @@ global.REACT_NUMBER = '94754342061' //මෙතන number එක.
 
 // Other
 global.owner = ['94754342061',''] //මෙතන number එක.
-global.premium = ['94754342061','9476342733'] //මෙතන number එක.
+global.premium = ['94754342061','94772282352'] //මෙතන number එක.
 global.botname = 'VIHANGA BOT INC' //මෙතන නම.
 global.ownername = 'Vihanga MD' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
